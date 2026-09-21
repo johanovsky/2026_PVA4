@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "H:\\2026\\2026_PVA4\\IT4B_2026\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE14EF4A-6140-4F78-8BCD-567CB7C6228A}|IT4B_2026\\IT4B_2026.csproj|h:\\2026\\2026_pva4\\it4b_2026\\it4b_2026\\podmacykly\\podmacykly.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE14EF4A-6140-4F78-8BCD-567CB7C6228A}|IT4B_2026\\IT4B_2026.csproj|solutionrelative:it4b_2026\\podmacykly\\podmacykly.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PodmACykly.aspx.cs",
+              "DocumentMoniker": "H:\\2026\\2026_PVA4\\IT4B_2026\\IT4B_2026\\PodmACykly\\PodmACykly.aspx.cs",
+              "RelativeDocumentMoniker": "IT4B_2026\\PodmACykly\\PodmACykly.aspx.cs",
+              "ToolTip": "H:\\2026\\2026_PVA4\\IT4B_2026\\IT4B_2026\\PodmACykly\\PodmACykly.aspx.cs",
+              "RelativeToolTip": "IT4B_2026\\PodmACykly\\PodmACykly.aspx.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T11:39:58.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

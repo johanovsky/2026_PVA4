@@ -67,23 +67,31 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="HelloWorld.aspx" />
-    <Content Include="Promenne.aspx" />
+    <Content Include="HelloWorld\HelloWorld.aspx" />
+    <Content Include="PodmACykly\PodmACykly.aspx" />
+    <Content Include="Promenne\Promenne.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HelloWorld.aspx.cs">
+    <Compile Include="HelloWorld\HelloWorld.aspx.cs">
       <DependentUpon>HelloWorld.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="HelloWorld.aspx.designer.cs">
+    <Compile Include="HelloWorld\HelloWorld.aspx.designer.cs">
       <DependentUpon>HelloWorld.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Promenne.aspx.cs">
+    <Compile Include="PodmACykly\PodmACykly.aspx.cs">
+      <DependentUpon>PodmACykly.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PodmACykly\PodmACykly.aspx.designer.cs">
+      <DependentUpon>PodmACykly.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Promenne\Promenne.aspx.cs">
       <DependentUpon>Promenne.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Promenne.aspx.designer.cs">
+    <Compile Include="Promenne\Promenne.aspx.designer.cs">
       <DependentUpon>Promenne.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />

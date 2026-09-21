@@ -40,5 +40,32 @@ namespace IT4B_2026
         /// K úpravě deklarace pole přesunutí ze souboru návrháře do souboru kódu
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lbl_long;
+
+        /// <summary>
+        /// Ovládací prvek lbl_double.
+        /// </summary>
+        /// <remarks>
+        /// Automaticky generované pole.
+        /// K úpravě deklarace pole přesunutí ze souboru návrháře do souboru kódu
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbl_double;
+
+        /// <summary>
+        /// Ovládací prvek lbl_decimal.
+        /// </summary>
+        /// <remarks>
+        /// Automaticky generované pole.
+        /// K úpravě deklarace pole přesunutí ze souboru návrháře do souboru kódu
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbl_decimal;
+
+        /// <summary>
+        /// Ovládací prvek lbl_znak.
+        /// </summary>
+        /// <remarks>
+        /// Automaticky generované pole.
+        /// K úpravě deklarace pole přesunutí ze souboru návrháře do souboru kódu
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbl_znak;
     }
 }

@@ -11,6 +11,10 @@
     <h1>Promenne</h1>
     test boolean: <asp:Label ID="lbl_bool" runat="server"></asp:Label><br />
     test int:     <asp:Label ID="lbl_int"  runat="server"></asp:Label><br />
-    test long:    <asp:Label ID="lbl_long" runat="server"></asp:Label>
+    test long:    <asp:Label ID="lbl_long" runat="server"></asp:Label><br />
+
+    test double:  <asp:Label ID="lbl_double" runat="server"></asp:Label><br />
+    test decimal: <asp:Label ID="lbl_decimal" runat="server"></asp:Label><br />
+    test znak:    <asp:Label ID="lbl_znak" runat="server"></asp:Label>
 </body>
 </html>
