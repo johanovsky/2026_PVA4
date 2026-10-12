@@ -71,6 +71,7 @@
     <Content Include="PodmACykly\PodmACykly.aspx" />
     <Content Include="Promenne\Promenne.aspx" />
     <Content Include="Scripts\Deleni.aspx" />
+    <Content Include="Scripts\KvRce.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -102,6 +103,13 @@
     </Compile>
     <Compile Include="Scripts\Deleni.aspx.designer.cs">
       <DependentUpon>Deleni.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Scripts\KvRce.aspx.cs">
+      <DependentUpon>KvRce.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Scripts\KvRce.aspx.designer.cs">
+      <DependentUpon>KvRce.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
